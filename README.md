@@ -45,7 +45,7 @@ curl -X POST localhost:3000/reservas -H 'Content-Type: application/json' \
 | Nome | Usuário do GitHub | Parte principal |
 | :--- | :--- | :--- |
 | Pedro Jorge Fernandes Medeiros de Oliveira | Pedrofmdo | `preco.ts` (funcional), `dominio.ts` (OO), `bilheteria.ts` (concorrência), `main.ts` e bench |
-| NOME_DA_DUPLA | usuario_da_dupla | `regras.ts` (meia-entrada) e README |
+| Samuel Paiva Ramos | Samuelptdd | `regras.ts` (meia-entrada) e README |
 
 ### Decisões
 
